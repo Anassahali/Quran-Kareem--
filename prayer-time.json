@@ -1,0 +1,15 @@
+{
+  "city": "Damanhour",
+  "country": "Egypt",
+  "timezone": "Africa/Cairo",
+  "times": [
+    {
+      "date": "2025-07-03",
+      "Fajr": "03:24",
+      "Dhuhr": "12:03",
+      "Asr": "15:39",
+      "Maghrib": "19:03",
+      "Isha": "20:32"
+    }
+  ]
+}
